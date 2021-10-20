@@ -11,3 +11,13 @@
 ## Fase 2
 
 [Presentacion Metodos K-Means](https://github.com/OviedoMarco/Mineria_de_datos)
+
+[Practica de visualizacion](https://github.com/OviedoMarco/Mineria_de_datos/blob/DataSets/Visualizacion_Equipo09.ipynb)
+
+[Segundo avance del PIA](https://github.com/OviedoMarco/Mineria_de_datos/blob/DataSets/AvancePIA_II_Grupo002_Equipo09.ipynb)
+
+## Fase 3
+
+[Tecnicas y Validacion](https://github.com/OviedoMarco/Mineria_de_datos/blob/DataSets/Tecnicas_PIA_II_Grupo002_Equipo09.ipynb)
+
+[Notebook Final](https://github.com/OviedoMarco/Mineria_de_datos/blob/DataSets/NoteBook_Grupo002_Equipo09.ipynb)
